@@ -11,7 +11,6 @@ rosidl_generate_interfaces( asvcommonmsg
         "msg/DesiredStateForRobot.msg"
         "msg/StateRobotForEvaluation.msg"
         "msg/StateOfBlueRov.msg"
-
         "srv/ResetEkf.srv"
 )
 
